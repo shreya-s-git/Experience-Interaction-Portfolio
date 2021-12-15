@@ -6,3 +6,5 @@ This is Shreya Subramaniam's final portfolio for Experience and Interaction. Bel
 - Banksy XD Prototype
 - Banksy NEU Website
 - Final Google Doodle
+
+Click "View on GitHub" to access the full menu and all included files.
